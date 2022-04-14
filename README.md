@@ -1,5 +1,7 @@
 # Forked from [m1k1o/neko](https://github.com/m1k1o/neko.git)
 
+[Official docs](https://neko.m1k1o.net/#/?id=neko)
+
 <div align="center">
   <a href="https://github.com/m1k1o/neko" title="Neko's Github repository.">
     <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/logo.png" width="450" height="auto"/>
